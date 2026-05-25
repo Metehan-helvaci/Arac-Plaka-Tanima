@@ -3,6 +3,7 @@ Turing makinesi kullanarak araçlardaki plakaların geçerli olup olmadığını
 5 tane geçerli ve geçersiz girdi örnekleri kod çıktısıyla beraber verilmiştir
 
 Geçerli Girdiler:
+
 Örnek1: 55AB123
 
 <img width="443" height="424" alt="Ekran Resmi 2026-05-25 13 16 41" src="https://github.com/user-attachments/assets/9da98192-0780-4915-85f6-fe98fe0eb81d" />
@@ -22,6 +23,29 @@ Geçerli Girdiler:
 Örnek5: 99XY999
 
 <img width="410" height="352" alt="Ekran Resmi 2026-05-25 13 26 52" src="https://github.com/user-attachments/assets/99b4b088-9a05-4833-af03-d3e257e8bbe3" />
+
+Geçersiz Girdiler
+
+Örnek1: 5AB123
+
+<img width="385" height="206" alt="Ekran Resmi 2026-05-25 13 28 21" src="https://github.com/user-attachments/assets/eccce32b-545f-45ce-8052-ad5c9166c9f9" />
+
+Örnek2:
+
+<img width="399" height="239" alt="Ekran Resmi 2026-05-25 13 28 53" src="https://github.com/user-attachments/assets/61c63801-605c-4e09-81aa-646f121f1b34" />
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
