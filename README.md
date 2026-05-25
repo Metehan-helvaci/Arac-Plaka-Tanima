@@ -30,7 +30,7 @@ Geçersiz Girdiler
 
 Örnek1: 5AB123
 
-<img width="770" height="412" alt="image" src="https://github.com/user-attachments/assets/b518f0a8-5a5f-4c36-a12f-7c0b60e45ff9" />
+<img width="399" height="412" alt="image" src="https://github.com/user-attachments/assets/b518f0a8-5a5f-4c36-a12f-7c0b60e45ff9" />
 
 Örnek2: 555AB12
 
